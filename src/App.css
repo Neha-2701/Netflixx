@@ -1,0 +1,75 @@
+.Navbar{
+  display: flex;
+  width: 100vw;
+  padding: 5px;
+  /* background: orangered; */
+}
+.LeftNavbar{
+  width:70vw;
+}
+.RightNavbar{
+  display: flex;
+  width: 30vw;
+  justify-content: space-between;
+}
+
+.CardBanner{
+  /* height:80vh; */
+}
+.CardImg{
+  height: 70vh;
+}
+.CardBody{
+  padding: 1rem;
+  /* background-color: orangered; */
+}
+.moviehead{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  gap:1rem;
+  justify-content: center;
+}
+.movieCard{
+  width: 30vw;
+  height: 50vh;
+}
+
+.movieImg{
+  height:100%;
+}
+.movieBtn{
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.pagin{
+  display: flex;
+  justify-content: center;
+}
+.fav-list{
+  margin: 2rem;
+}
+
+.fav-img{
+  width: 80px;
+  height: 50px;
+}
+@media screen and (max-width : 400px){
+  .Navbar{
+    flex-direction: column;
+  }
+  .RightNavbar{
+    flex-direction: column;
+  }
+  .CardImg{
+    height: 40vh;
+  }
+  .CardText{
+    overflow: scroll;
+    max-height: 20vh;
+  }
+  .movieCard{
+    width: 100vw;
+  }
+}
