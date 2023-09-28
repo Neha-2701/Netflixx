@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </h1>
 # Description:
 
-### NETFLIXA App is build using Web Technologies such as HTML, CSS.
+### NETFLIXX  App is build using Web Technologies such as HTML, CSS.
 ### It is an Application of React
 ### Some features of this project are -
 - An API is used to extract data of movies.
