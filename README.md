@@ -1,6 +1,27 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  NetFlixa
+</h1>
+# Description:
+
+### NETFLIXA App is build using Web Technologies such as HTML, CSS.
+### It is an Application of React
+### Some features of this project are -
+- An API is used to extract data of movies.
+- A home page is designed from where we can see the banner of movies.
+- We can any movie to our favourite list
+- From Favourites Page, we can delete the movies.
+- We can sort movies as per their genres
+
+
+# 🚀 Technical Stack:
+
+## Frontend:
+- Programming Language: HTML, CSS, Javascript
+- IDE: VScode
+- Framework: React
 
 ## Available Scripts
 
